@@ -3,7 +3,7 @@ import requests
 
 
 API_KEY = "1003bee3593c792a6445d3e8843845e4"
-TOKEN = "ATTAe74db5c43e0c6766c678543bec282d4b2e3f8104d67e6f677ab379fea9de9ffc9B24FC8A"
+TOKEN = "SEU_TOKEN_AQUI"
 BOARD_ID = "OP7nOuVZ"  
 
 BASE_URL = "https://api.trello.com/1"
